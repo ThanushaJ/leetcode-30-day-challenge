@@ -1,6 +1,6 @@
 /*
 Perform String Shifts
-Solution
+
 You are given a string s containing lowercase English letters, and a matrix shift, where shift[i] = [direction, amount]:
 
 direction can be 0 (for left shift) or 1 (for right shift).
